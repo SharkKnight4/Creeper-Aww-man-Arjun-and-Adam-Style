@@ -1,0 +1,11 @@
+body{
+background-color:lime;
+font-weight:bold;
+alignment:center;
+}
+iframe{
+border-weight:bold;
+border-style:dashed;
+height:100px;
+width:100px;
+}
